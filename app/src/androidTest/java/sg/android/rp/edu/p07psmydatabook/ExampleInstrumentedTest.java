@@ -1,4 +1,4 @@
-package c302_p06_sakilaclient.webservices.rp.edu.p07psmydatabook;
+package sg.android.rp.edu.p07psmydatabook;
 
 import android.content.Context;
 
